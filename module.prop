@@ -1,6 +1,6 @@
 id=callrecorder-axet
 name=Axet's Call Recorder
-version=v1.0.1
-versionCode=10010
-author=di72nn
+version=v1.0.2
+versionCode=10020
+author=di72nn,D-Jy
 description=Record calls with axet's Call Recorder (compatible with F-Droid updates)
