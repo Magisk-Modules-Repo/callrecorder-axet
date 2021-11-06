@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <permissions>
     <privapp-permissions package="com.github.axet.callrecorder">
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.PROCESS_OUTGOING_CALLS"/>
+        <permission name="android.permission.READ_CALL_LOG"/>
+        <permission name="android.permission.READ_PHONE_STATE"/>
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.RECORD_AUDIO"/>
+        <permission name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"/>
+        <permission name="android.permission.READ_CONTACTS"/>
         <permission name="android.permission.CAPTURE_AUDIO_OUTPUT"/>
+        <permission name="android.permission.WAKE_LOCK"/>
+        <permission name="android.permission.FOREGROUND_SERVICE"/>
     </privapp-permissions>
 </permissions>
