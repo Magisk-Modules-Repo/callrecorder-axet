@@ -30,7 +30,8 @@ Call Recorder by axet: [f-droid link](https://f-droid.org/en/packages/com.github
 
 Repo mirrors:
 [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo/callrecorder-axet),
-[di72nn](https://github.com/di72nn/callrecorder-axet).
+[di72nn](https://github.com/di72nn/callrecorder-axet),
+[D-Jy-lab](https://github.com/D-Jy-lab/callrecorder-axet),.
 
 
 ## License

@@ -5,7 +5,7 @@ install_apk() {
   fi
 
   ui_print '- Installing CallRecorder APK'
-  pm install -r "$MODPATH/system/priv-app/com.github.axet.callrecorder/com.github.axet.callrecorder_219.apk" || true
+  pm install -r "$MODPATH/system/priv-app/com.github.axet.callrecorder/com.github.axet.callrecorder_230.apk" || true
 }
 
 
